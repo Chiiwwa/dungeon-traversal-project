@@ -1,0 +1,116 @@
+Choose an option:
+1. Generate random tree
+2. Use custom tree from file
+1
+No escape node selected.
+Node Value: 36
+--Node Value: 30
+----Node Value: 61
+--Node Value: 71
+--Node Value: 95
+--Node Value: 44
+----Node Value: 89
+----Node Value: 100
+------Node Value: 36
+--Node Value: 19
+
+Starting DFS...
+Total moves: 19
+Total time taken: 3.5e-06 seconds.
+Escape node not found.
+PS C:\Users\Savior\Desktop\css322> ^C
+PS C:\Users\Savior\Desktop\css322>
+PS C:\Users\Savior\Desktop\css322>  & 'c:\Users\Savior\.vscode\extensions\ms-vscode.cpptools-1.22.11-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-uxfcfckk.nso' '--stdout=Microsoft-MIEngine-Out-3hnifk3g.cdv' '--stderr=Microsoft-MIEngine-Error-a0bfvjbj.k2c' '--pid=Microsoft-MIEngine-Pid-ppcvbzp4.ev0' '--dbgExe=C:\msys64\ucrt64\bin\gdb.exe' '--interpreter=mi'
+Choose an option:
+1. Generate random tree
+2. Use custom tree from file
+1
+No escape node selected.
+Node Value: 95
+--Node Value: 93
+----Node Value: 40
+----Node Value: 21
+----Node Value: 28
+------Node Value: 66
+--Node Value: 27
+----Node Value: 92
+------Node Value: 41
+----Node Value: 42
+
+Starting DFS...
+Total moves: 19
+Total time taken: 2.7e-06 seconds.
+Escape node not found.
+PS C:\Users\Savior\Desktop\css322> ^C
+PS C:\Users\Savior\Desktop\css322>
+PS C:\Users\Savior\Desktop\css322>  & 'c:\Users\Savior\.vscode\extensions\ms-vscode.cpptools-1.22.11-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-zir4tztq.nka' '--stdout=Microsoft-MIEngine-Out-pwbg3sdx.w0h' '--stderr=Microsoft-MIEngine-Error-i4gmx3sq.02n' '--pid=Microsoft-MIEngine-Pid-ekgpyyqw.3pi' '--dbgExe=C:\msys64\ucrt64\bin\gdb.exe' '--interpreter=mi'
+Choose an option:
+1. Generate random tree
+2. Use custom tree from file
+1
+No escape node selected.
+Node Value: 29
+--Node Value: 94
+--Node Value: 83
+----Node Value: 96
+----Node Value: 1
+----Node Value: 98
+--Node Value: 75
+----Node Value: 12
+------Node Value: 32
+----Node Value: 12
+
+Starting DFS...
+Total moves: 19
+Total time taken: 2.4e-06 seconds.
+Escape node not found.
+PS C:\Users\Savior\Desktop\css322> ^C
+PS C:\Users\Savior\Desktop\css322>
+PS C:\Users\Savior\Desktop\css322>  & 'c:\Users\Savior\.vscode\extensions\ms-vscode.cpptools-1.22.11-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-qc1jl0gg.lma' '--stdout=Microsoft-MIEngine-Out-00fy35hi.3m5' '--stderr=Microsoft-MIEngine-Error-ircgytvu.3ot' '--pid=Microsoft-MIEngine-Pid-2r1sicpf.ugk' '--dbgExe=C:\msys64\ucrt64\bin\gdb.exe' '--interpreter=mi'
+Choose an option:
+1. Generate random tree
+2. Use custom tree from file
+1
+No escape node selected.
+Node Value: 58
+--Node Value: 26
+----Node Value: 45
+----Node Value: 69
+------Node Value: 57
+----Node Value: 37
+----Node Value: 3
+----Node Value: 99
+--Node Value: 97
+----Node Value: 95
+
+Starting DFS...
+Total moves: 19
+Total time taken: 2.5e-06 seconds.
+Escape node not found.
+PS C:\Users\Savior\Desktop\css322> ^C
+PS C:\Users\Savior\Desktop\css322>
+PS C:\Users\Savior\Desktop\css322>  & 'c:\Users\Savior\.vscode\extensions\ms-vscode.cpptools-1.22.11-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-rbjk2gog.k21' '--stdout=Microsoft-MIEngine-Out-0krj1ceb.e20' '--stderr=Microsoft-MIEngine-Error-vd4pv2op.ntz' '--pid=Microsoft-MIEngine-Pid-h1tnly3h.yz4' '--dbgExe=C:\msys64\ucrt64\bin\gdb.exe' '--interpreter=mi'
+PS C:\Users\Savior\Desktop\css322> 1^C
+PS C:\Users\Savior\Desktop\css322>
+PS C:\Users\Savior\Desktop\css322>  & 'c:\Users\Savior\.vscode\extensions\ms-vscode.cpptools-1.22.11-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-zbmpkvnk.tiq' '--stdout=Microsoft-MIEngine-Out-k1z4pz3o.l3p' '--stderr=Microsoft-MIEngine-Error-pr5501an.gqd' '--pid=Microsoft-MIEngine-Pid-yy3a344p.odz' '--dbgExe=C:\msys64\ucrt64\bin\gdb.exe' '--interpreter=mi'
+Choose an option:
+1. Generate random tree
+2. Use custom tree from file
+1
+Escape node with value 5 added.
+Node Value: 35
+--Node Value: 36
+----Node Value: 55
+------Node Value: 39
+--Node Value: 5
+----Node Value: 39
+----Node Value: 80
+--Node Value: 61
+----Node Value: 71
+------Node Value: 47
+
+Starting DFS...
+Escape node found!
+Total moves: 8
+Total time taken: 6.77e-05 seconds.
+PS C:\Users\Savior\Desktop\css322> 
